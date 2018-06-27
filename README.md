@@ -1,5 +1,8 @@
+# 百度地图web--拖拽选址
 
 > 实现地图拖拽选址功能，百度地图并未像[高德地图拖拽选址功能](http://lbs.amap.com/api/javascript-api/example/amap-ui-positionpicker/position-picker) 。由于项目需要，在百度地图的基础上实现简单的拖拽功能。大神掠过～～
+
+### [MapDemo下载](https://github.com/jun454647/MapDemo.git)
 
 实现思路
 ```
@@ -95,7 +98,6 @@ point 是标示地图中点位置；
 
 ```
 **大神略过~~,  如有问题，欢迎讨论**
-
 
 
 
